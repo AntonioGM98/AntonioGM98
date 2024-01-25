@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Antonio</h1>
 
-![](https://komarev.com/ghpvc/?username=AntonioGM98)
-
 I am currently pursuing my Bachelors in computer science. I am a data enthusiast & a quick learner.
 
 - 🌱 I’m currently interested in **Natural Language Processing and Deep Learning**
